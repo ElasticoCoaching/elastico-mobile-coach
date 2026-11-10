@@ -1,0 +1,22 @@
+{
+  "id": "/elastico-mobile-coach/elastico-coach-081",
+  "name": "Elastico Mobile Coach 0.8.1",
+  "short_name": "Elastico 0.8.1",
+  "start_url": "/elastico-mobile-coach/Elastico081_PWA.html",
+  "scope": "/elastico-mobile-coach/",
+  "display": "standalone",
+  "background_color": "#0b1b20",
+  "theme_color": "#0b1b20",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
